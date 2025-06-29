@@ -2,39 +2,58 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **Admission Number**:
-- **GitHub Username**:
-- **Email**:
+- **Full Name**: Ayiera Ajani Maina
+- **Admission Number**: 150658
+- **GitHub Username**: @AJAyiera
+- **Email**: ajani.ayiera@strathmore.edy
 
 ## 2. Deployed Portfolio Link
 
 - **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
+ https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-AJAyiera/index.html
 
 ## 3. Learnings from the Git Crash Program
-
-Write about **4 things** you expected to learn during the Git crash course (yes, we all came in with some big hopes 😅).
-For each one, mention:
-
-What you thought it would be like **(Expectation 👀)**
-
-What you actually learned **(Reality 😅)**
-
-And how it helped with your personal portfolio project 💻
-
-make it honest—and if it surprised you, even better!
-
-Example format:
 
 **🧠 What I Thought I'd Learn vs What I Actually Learned**
 **1. Concept: Branching**
 
-`Expectation 👀` : I thought branching was just for developers working on big apps—nothing I’d need for a small project.
+`Expectation 👀` : I never thought branching was important and everything could be done on the main brand.
 
-`Reality 😅`: Turns out even solo devs need branches! It helped me avoid breaking my main code while testing new designs.
+`Reality 😅`: Branching is the most important feature in team development
 
-`Impact 💡`: I created a feature branch for my "About Me" section and merged it smoothly into the main branch after testing. Super useful!
+`Impact 💡`: I learnt to work with branches to avoid interfering with my teammates work and to document changes
+
+**2. Concept: Merging**
+
+`Expectation 👀` : I never needed to merge since I was always on the main branch.
+
+`Reality 😅`: Merging allows for updating the main branch with only the wanted changes that are ready to be integrated.
+
+`Impact 💡`: I can now display what is only necessary and ready for the project.
+
+**3. Concept: Issue and Milestones**
+
+`Expectation 👀` : I thought these features would not be useful for solo developers.
+
+`Reality 😅`: They help track changes and branches allowing for progress tracking over time.
+
+`Impact 💡`: I can structure my work and time better with clear goals for each step of the way.
+
+**4. Concept: Documentation**
+
+`Expectation 👀` : I would havve learnt how to use md. files.
+
+`Reality 😅`: Documentation has a lot of important instructions for the potential users and clients.
+
+`Impact 💡`: I can now create detailed documentation pages for my projects on GitHub.
+
+**5. Concept: Deploying Pages**
+
+`Expectation 👀` : I did not know this was possible.
+
+`Reality 😅`: GitHub can simulate pages that I create, providing a way to preview and launch sites.
+
+`Impact 💡`: I can now deploy pages when ready through the repository settings.
 
 ## 4. Screenshots of Key GitHub Features
 
@@ -49,11 +68,11 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 
 ### A. Milestones and Issues
 
-- Screenshot showing your milestone(s) and the issues linked to it.
+![Issues](issues.png)
 
 ### B. Project Board
 
-- Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
+![Project Board](<project board.png>)
 
 ### C. Branching
 
