@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Personal Profile</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #a5c1ed;
+      margin: 0;
+      padding: 40px;
+      color: #333;
+    }
+
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+      margin-bottom: 40px;
+    }
+
+    .team-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+    }
+
+    .member {
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+      width: 300px;
+      transition: transform 0.2s ease-in-out;
+    }
+
+    .member:hover {
+      transform: translateY(-5px);
+    }
+
+    .member img {
+      width: 100%;
+      max-height: 200px;
+      object-fit: cover;
+      border-radius: 8px;
+      margin-top: 15px;
+    }
+
+    .member h2 {
+      margin-top: 0;
+      font-size: 1.4em;
+      color: #1a1a1a;
+    }
+
+    .member p {
+      margin: 8px 0;
+      font-size: 0.95em;
+    }
+
+    .member p strong {
+      color: #0077cc;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Meet the Developer</h1>
+  <img src = "images/welcome.jpg" alt = "Welcome Image" style="width: 100%; max-width: 600px; border-radius: 10px; margin-bottom: 20px;">
+
+  <div class="team-container">
+    <!-- Ajani -->
+    <div class="member">
+      <h2>Ajani Ayiera</h2>
+      <p><strong>GitHub:</strong> @AJAyiera</p>
+      <p><strong>Favorite Tech:</strong> Python and ReactJs</p>
+      <p><strong>Fun Fact:</strong> Time flies like an arrow, fruit flies like a banana.</p>
+      
+    </div>
+  
+    <div class = "member">
+    <a href="about_me.html" class = "button">MORE ABOUT ME</a>
+    </div>
+ </div>
+
+</body>
+</html>
